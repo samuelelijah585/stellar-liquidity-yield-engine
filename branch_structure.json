@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-310-finalize-soroban-safety-checklist-for-paused"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-310-finalize-soroban-safety-checklist-for-paused": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-310-finalize-soroban-safety-checklist-for-paused"
+  ]
+}
